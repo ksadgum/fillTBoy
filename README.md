@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fillTBoy
-- 👀 I’m interested in programming languages, currently Javascript, and what complex results you can make from a simple code :D
+- 👀 I’m interested in programming languages, currently Javascript, and what complex results you can get from a simple code :D
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on pushing JS code to a higher level!
 - 📫 My IG: @filltboy && e-mail: musicinfo82
